@@ -17,6 +17,7 @@ Features include:
 Play the game live here:  
 [Snake Game Live](https://bablubhatt.github.io/Snake-Game/)
 
+
 ## Tech Stack
 - HTML
 - CSS
